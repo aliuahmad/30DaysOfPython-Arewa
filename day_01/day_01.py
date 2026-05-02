@@ -37,4 +37,3 @@ age = input("Enter your age: ")
 print("You are", age, "years old")
 
 print("Day 1 completed 🎉")
-git init
